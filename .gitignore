@@ -1,0 +1,15 @@
+*.db
+*.sqltie3
+
+.env
+
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
