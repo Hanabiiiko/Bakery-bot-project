@@ -38,10 +38,10 @@ pip install -r requirements.txt
 4. **Настройте переменные окружения:**
 Создайте файл .env в корневой папке проекта и добавьте ваши конфиденциальные данные:
 
-Code snippet
+```
 BOT_TOKEN=ваш_токен_от_BotFather
 BAKER_ID=ваш_telegram_id
-
+```
 5. **Запустите бота:**
 
 Bash
